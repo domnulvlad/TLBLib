@@ -1,0 +1,35 @@
+###################################
+# Syntax Coloring Map For TLBLib
+###################################
+
+###################################
+# Datatypes (KEYWORD1)
+###################################
+
+TLBLib	KEYWORD1
+errorFunction_type	KEYWORD1
+sendError	KEYWORD1
+
+###################################
+# Methods and Functions (KEYWORD2)
+###################################
+
+errorFunction	KEYWORD2
+
+begin	KEYWORD2
+end	KEYWORD2
+
+update	KEYWORD2
+
+send	KEYWORD2
+
+###################################
+# Constants (LITERAL1)
+###################################
+
+KEEP_ALIVE_RATE_ms	LITERAL1
+MIN_MESSAGE_RATE_ms	LITERAL1
+
+RPT_TIMEOUT_ms	LITERAL1
+REQ_TIMEOUT_us	LITERAL1
+ACK_TIMEOUT_us	LITERAL1
