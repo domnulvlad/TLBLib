@@ -3,7 +3,7 @@
 ---
 
 ## Notes
-This library is designed to be used with [TLBFISLib](https://github.com/domnulvlad/TLBFISLib/releases/latest).
+This library is designed to be used with [TLBFISLib](https://github.com/domnulvlad/TLBFISLib).
 
 ## Contact
 For any inquiries, you can contact me at [ne555timer@yahoo.com](mailto:ne555timer@yahoo.com) or [open an issue](https://github.com/domnulvlad/TLBLib/issues).
