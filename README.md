@@ -6,4 +6,4 @@
 This library is designed to be used with [TLBFISLib](https://github.com/domnulvlad/TLBFISLib).
 
 ## Contact
-For any inquiries, you can contact me at [ne555timer@yahoo.com](mailto:ne555timer@yahoo.com) or [open an issue](https://github.com/domnulvlad/TLBLib/issues).
+For any inquiries, you can contact me at [ne555timer@yahoo.com](mailto:ne555timer@yahoo.com) (but don't include any links in the email, as it will be marked as spam) or [open an issue](https://github.com/domnulvlad/TLBLib/issues).
